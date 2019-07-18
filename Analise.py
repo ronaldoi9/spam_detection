@@ -2,16 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, accuracy_score, classification_report
 from perceptron import Perceptron
-'''
 
-    Trabalho Perceptron - Python
-    Alunos: Ronaldo Lopes Inocencio Júnior      Matrícula: 15.2.8042
-            Felipe Augusto Magno Tomaz          Matrícula: 15.2.8097            
-    Professor: TALLES HENRIQUE DE MEDEIROS 
-    Disciplina: CSI457 - INTELIGÊNCIA ARTIFICIAL - Turma 22
-    Data: 12/07/2019
-
-'''
 # Leitura do arquivo csv contendo as amostras dos emails
 samples = pd.read_csv("sample.csv", sep=',')
 
