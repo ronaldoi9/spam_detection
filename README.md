@@ -1,7 +1,7 @@
 # Spam Detection
 
 ## About this project
-This project was built to AI discipline at University Federal of Ouro Preto. Your main goal is apply an simple artificial neural network (Perceptron) to detect spam.
+This project was built to AI discipline at University Federal of Ouro Preto. Its main goal is apply a simple artificial neural network (Perceptron) to detect spam.
 
 ## Introduction
 E-mail, one of the oldest and most widely used services on the Internet, is also the most widely used medium for the indiscriminate sending of unsolicited messages, known as spam. Due to the wide variety of techniques used to send spam, this type of email is a problem that is still far from being solved. This work aims to present one of the main spam detection techniques, which is the use of an ANN (Artificial Neural Network) for spam detection.
